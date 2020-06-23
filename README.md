@@ -9,7 +9,7 @@ Since you aren't the admin for the provider's telegram group or channel , you wi
 
 # Telegram Signal Format
 
-Since the majority of telegram signal providers do not have the same format, you have to format the signal into a format that this Telegram Trader Copier can recognize. Please see the examples below for supported format. 
+Since the majority of telegram signal providers do not have the same format, you have to format the signal into a format that this **Telegram Trade Copier** can recognize. Please see the examples below for supported format. 
 
 - **Symbol** | Can be upper or lowercase or a mix of both
 - **Signal** | BUY, Buy, buy, SELL, Sell, sell
@@ -44,7 +44,7 @@ SL 1.01234
 
 
 # Parameters
-- **BrokerageSuffix** | If your broker has a suffic after the symbol, such as EURUSD.lmax , enter ".lmax"
+- **BrokerageSuffix** | If your broker has a suffix after the symbol, such as EURUSD.lmax , enter ".lmax"
 - **TelegramToken** | Your Telegram token , talk to the @BotFather on telegram to create a bot and token 
 - **PollingSpeedInSeconds** | How frequently do you want to check the telegram channel or group for a new signal
 
