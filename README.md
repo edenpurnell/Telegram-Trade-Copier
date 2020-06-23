@@ -32,7 +32,7 @@ takeprofit 1.23455
 stoploss 1.01234  
 
 # Multiple TakeProfit Values
-Telegram Trade Copier handles multiple takeprofit targets by entering several positions on the initial signal and giving each position its own takeprofit value. For example a signal with 3 takeprofit values will place 3 positions on your account and each position will have its own takeprofit value
+**Telegram Trade Copier** handles multiple takeprofit targets by entering several positions on the initial signal and giving each position its own takeprofit value. For example a signal with 3 takeprofit values will place 3 positions on your account and each position will have its own takeprofit value. A signal can have up to 4 TakeProfit values. 
 
 EURUSD  
 BUY 1.12345  
