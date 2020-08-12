@@ -48,5 +48,7 @@ SL 1.01234
 - **TelegramToken** | Your Telegram token , talk to the @BotFather on telegram to create a bot and token 
 - **PollingSpeedInSeconds** | How frequently do you want to check the telegram channel or group for a new signal
 
+# License $150
 
+Contact Developer   information on the profile page https://github.com/fx4btc | 1 Week demo available
 
