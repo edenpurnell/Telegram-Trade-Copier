@@ -1,6 +1,12 @@
 # Telegram-Trade-Copier
 Copy Telegram Signal to your Metatrader account MT4 - MT5 for automated trade copying 
 
+Open your Metatrader platform
+
+**Tools => Options => Expert Advisors => Allow Webrequests**
+
+https://api.telegram.org 
+
 # About
 Unlike most of the Telegram trade copier services available, this is a stand alone MetaTrader Robot that does all the copy trading functionality on your hosted trading platform.
 
