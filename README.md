@@ -7,6 +7,15 @@ Open your Metatrader platform
 
 https://api.telegram.org 
 
+Make a telegram bot by talking to the @botfather within your telegram app. 
+
+Put the access token within the MT5 robot that you get from the botfather. 
+
+If you need your chat channel ID or chat Group ID , watch this video 
+https://www.youtube.com/watch?v=I-qI6jeLIsI
+
+You may need to use this tool https://github.com/fx4btc/parsesig to send your signals to a group or channel chat because two telegrams can not communicate. 
+
 # About
 Unlike most of the Telegram trade copier services available, this is a stand alone MetaTrader Robot that does all the copy trading functionality on your hosted trading platform.
 
